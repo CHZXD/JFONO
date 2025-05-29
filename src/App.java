@@ -38,6 +38,7 @@ public class App {
         Clinica cl1 = new Clinica("00987","FonoVida", "12.345.678/0001-90");
         System.out.println("Nome da Clínica: "+cl1.getNome());
         System.out.println("CNPJ: "+cl1.getCnpj());
+        //jesus
         
        
    }
